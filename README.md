@@ -60,7 +60,7 @@
 +-------------------------------------------------------------------------------------------------+
 </pre>
 
-I am <b>Rahul Pandey</b>, a <b>Senior DevOps Engineer & Cloud Automation Specialist</b> based in <b>New Delhi</b>, with hands-on experience spearheading <b>Microsoft Azure</b> transformations, <b>multi-environment Terraform Landing Zones (CAF)</b>, and <b>autonomous CI/CD platform engineering</b>. 
+I am **Rahul Pandey**, a **Senior DevOps Engineer & Cloud Automation Specialist** based in **New Delhi**, with hands-on experience spearheading **Microsoft Azure** transformations, **multi-environment Terraform Landing Zones (CAF)**, and **autonomous CI/CD platform engineering**. 
 
 <ul>
   <li>🔭 <b>Current Role:</b> Senior DevOps Engineer @ <b>New Delhi</b> — <i>Remote/Onsite</i></li>
@@ -83,13 +83,40 @@ I am <b>Rahul Pandey</b>, a <b>Senior DevOps Engineer & Cloud Automation Special
 </div>
 
 <!-- ======================================================== -->
+<!-- 💼 EXPERIENCE & LEADERSHIP JOURNEY                       -->
+<!-- ======================================================== -->
+<h2>💼 Experience & Leadership Journey</h2>
+
+<pre>
+2023 - Present     🚀 Senior DevOps Engineer & Cloud Specialist @ New Delhi
+2019 - 2023        ⚡ Cloud/DevOps Engineer
+2018 - 2019        🛠️ Infrastructure & Systems Engineer
+2017 - 2018        🛠️ Infrastructure & Systems Engineer
+2013 - 2014        🛠️ Systems Reliable Engineer
+</pre>
+
+<blockquote>
+  <b>Core Impact Highlights:</b>
+  <ul>
+    <li>🏛️ Built enterprise-grade <b>reusable Terraform parent/child modules</b> powering consistent zero-drift infrastructure across Dev, UAT, and Production.</li>
+    <li>🛡️ Implemented automated <b>DevSecOps gatekeepers</b> (Tfsec, TFLint, TruffleHog, Terratest, Trivy) cutting security vulnerabilities by over 70% before runtime.</li>
+    <li>🌐 Engineered <b>Azure Application Gateway & Front Door WAF</b> topologies with end-to-end SSL termination, path-based routing, and health probes.</li>
+    <li>💰 Spearheaded <b>FinOps cloud governance & OpenCost integration</b>, identifying orphan resources, unattached managed disks, and optimizing cloud spend.</li>
+  </ul>
+</blockquote>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Rainbow Animated Divider" />
+</div>
+
+<!-- ======================================================== -->
 <!-- 🎓 EDUCATION & ACADEMIC CREDENTIALS                      -->
 <!-- ======================================================== -->
 <h2>🎓 Education & Academic Credentials</h2>
 
 <ul>
   <li>🎓 <b>Bachelor's Degree</b> — Graduated 2022</li>
-  <li>🎓 <b>Diploma's</b> — 2013</li>
+  <li>🎓 <b>Diploma</b> — 2013</li>
   <li>🏫 <b>Intermediate / Class XII (U.P Board)</b> — 2014</li>
   <li>🏫 <b>High School / Class X (C.B.S.E.)</b> — 2009</li>
 </ul>
@@ -280,31 +307,6 @@ I am <b>Rahul Pandey</b>, a <b>Senior DevOps Engineer & Cloud Automation Special
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Rainbow Animated Divider" />
 
-</div>
-
-<!-- ======================================================== -->
-<!-- 💼 CAREER TIMELINE                                       -->
-<!-- ======================================================== -->
-<h2>💼 Experience & Leadership Journey</h2>
-
-<pre>
-2024 - Present     🚀 Senior DevOps Engineer & Cloud Specialist @ New Delhi
-2022 - 2024        ⚡ Cloud/DevOps Engineer
-2020 - 2022        🛠️ Infrastructure & Systems Engineer
-</pre>
-
-<blockquote>
-  <b>Core Impact Highlights:</b>
-  <ul>
-    <li>🏛️ Built enterprise-grade <b>reusable Terraform parent/child modules</b> powering consistent zero-drift infrastructure across Dev, UAT, and Production.</li>
-    <li>🛡️ Implemented automated <b>DevSecOps gatekeepers</b> (Tfsec, TFLint, TruffleHog, Terratest, Trivy) cutting security vulnerabilities by over 70% before runtime.</li>
-    <li>🌐 Engineered <b>Azure Application Gateway & Front Door WAF</b> topologies with end-to-end SSL termination, path-based routing, and health probes.</li>
-    <li>💰 Spearheaded <b>FinOps cloud governance & OpenCost integration</b>, identifying orphan resources, unattached managed disks, and optimizing cloud spend.</li>
-  </ul>
-</blockquote>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Rainbow Animated Divider" />
 </div>
 
 <!-- ======================================================== -->
