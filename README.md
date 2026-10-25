@@ -32,19 +32,13 @@
 <br/><br/>
 
 <!-- ======================================================== -->
-<!-- 🌐 PITCH-BLACK SYNAPTIC NEURAL SCENE                     -->
+<!-- 🌐 LIVE ANIMATED DEVOPS BANNER                           -->
 <!-- ======================================================== -->
 <a href="https://github.com/RahulPandeyTech" target="_blank">
-  <img src="./assets/interactive-mouse-grid.svg" width="100%" alt="Pitch-Black Interactive AI Neural Scene" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Live Banner" />
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/RahulPandeyTech" target="_blank">
-  <img src="https://img.shields.io/badge/⚡_LAUNCH_FULLSCREEN_PITCH_BLACK_AI_CANVAS-WHEREVER_MOUSE_POINTS,_LIGHT_BLINKS!-00F0FF?style=for-the-badge&logo=visualstudiocode&logoColor=000000" alt="Launch Live Canvas" />
-</a>
-
-<p align="center"><sub>💡 <b>Live Neural Engine:</b> Click the glowing button above to launch the full-screen <b>#000000 Jet-Black Canvas</b> where real-time neon light beams follow your mouse cursor, connect to synaptic nodes, and spark on touch/click!</sub></p>
+<p align="center"><sub>⚡ <b>Cloud Automation & Infrastructure Ecosystem:</b> Powered by Azure, Terraform IaC, Kubernetes, and Autonomous CI/CD Pipelines.</sub></p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Rainbow Animated Divider" />
 
@@ -112,10 +106,6 @@ I am <b>Rahul Pandey</b>, a <b>Senior DevOps Engineer & Cloud Automation Special
 <blockquote>
   <b>The Agentic Paradigm:</b> Transitioning from passive scripts to <b>autonomous, self-governing multi-agent systems</b> that design, audit, cost-evaluate, and heal cloud infrastructure in real-time.
 </blockquote>
-
-<div align="center">
-  <img src="./assets/animated-agentic-architecture.svg" width="100%" alt="Autonomous Multi-Agent DevSecOps Architecture Flow with Animated Laser Arrows" />
-</div>
 
 <div align="center">
 
@@ -189,15 +179,7 @@ I am <b>Rahul Pandey</b>, a <b>Senior DevOps Engineer & Cloud Automation Special
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="180" alt="Skills Animated Banner" />
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/RahulPandeyTech">
-    <img src="https://img.shields.io/badge/🚀_LAUNCH_LIVE_3D_HOVER_DOCK_PORTFOLIO-CLICK_HERE-00F0FF?style=for-the-badge&logo=rocket&logoColor=000000" alt="Launch Live 3D Hover Dock" />
-  </a>
-</div>
-
-<br/>
+<br/><br/>
 
 <details open>
 <summary><b>☁️ Set 1: Multi-Cloud Platforms & Landing Zones</b></summary>
