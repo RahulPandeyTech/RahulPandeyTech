@@ -31,15 +31,6 @@
 
 <br/><br/>
 
-<!-- ======================================================== -->
-<!-- 🌐 LIVE ANIMATED DEVOPS BANNER                           -->
-<!-- ======================================================== -->
-<a href="https://github.com/RahulPandeyTech" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Live Banner" />
-</a>
-
-<p align="center"><sub>⚡ <b>Cloud Automation & Infrastructure Ecosystem:</b> Powered by Azure, Terraform IaC, Kubernetes, and Autonomous CI/CD Pipelines.</sub></p>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Rainbow Animated Divider" />
 
 </div>
